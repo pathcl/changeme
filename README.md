@@ -1,5 +1,5 @@
 Howto use it
 ---
 ```
-go run github.com/pathcl/changeme
+go get github.com/pathcl/changeme
 ```
